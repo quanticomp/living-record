@@ -1,0 +1,1 @@
+{"fixtures":[{"expect_class":"computed","expect_contains":["17 artifacts"],"id":"V1-F1-artifact-count","question":"how many artifacts are in the corpus"},{"expect_class":"refusal_enumeration_state","expect_contains":["Not counted yet"],"id":"V1-F4-message-count-refusal","question":"how many messages are in the corpus"}],"manifest_version_pinned":"v1"}
